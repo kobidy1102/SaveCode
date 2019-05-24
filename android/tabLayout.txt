@@ -1,0 +1,51 @@
+
+    public void setTabLayoutSector(List<Sector> sectors){
+
+        tlSector.removeAllTabs();
+        tlSector.clearOnTabSelectedListeners();
+        //List<Sector> sectorList = new ArrayList<>(sectors);
+        sectors.add(0, new Sector("All","all"));
+        this.sectors=sectors;
+        for (int i = 0; i < sectors.size(); i++) {
+            TabLayout.Tab tab1 = tlSector.newTab();
+
+            TextView tv = (TextView) LayoutInflater.from(getContext()).inflate(R.layout.item_tablayout_latest,null);
+            tv.setText(sectors.get(i).getTitle());
+            tab1.setCustomView(tv);
+
+            tlSector.addTab(tab1);
+        }
+
+
+
+        tlSector.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+            @Override
+            public void onTabSelected(TabLayout.Tab tab) {
+                sector =sectors.get(tab.getPosition()).getId();
+                page = 1;
+                presenter.getLatest(new LatestRequest(country, String.valueOf(page), sector, countryId), false,true);
+
+
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+
+            }
+        });
+
+        if(((MainActivity)getActivity()).getType()==null)
+            loadDataLatestNew();
+
+    }
+
+
+  TabLayout.Tab tab = tlSector.getTabAt(index);
+        tab.select();
+
+  tabLayout.setupWithViewPager(viewPager);

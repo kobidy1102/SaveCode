@@ -1,0 +1,26 @@
+ MainPagerAdapter adapter = new MainPagerAdapter(getSupportFragmentManager(), fragments);
+        viewPager.setAdapter(adapter);
+
+        viewPager.setOffscreenPageLimit(fragments.size());
+        setUpTabLayout();
+
+        viewPager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+                int sectorSize = priceFragment.getSectorsSize();
+                    if (sectorSize == 0 && position == 0) {
+                        viewPager.setCurrentItem(2);
+                    }
+
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
