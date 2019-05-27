@@ -1,0 +1,17 @@
+1). Sort:
+1. CREATE TABLE DictionaryEV3 (Id INTEGER PRIMARY KEY AUTOINCREMENT, En TEXT,Vi TEXT)
+2. INSERT INTO DictionaryEV3 (En, Vi)
+SELECT En,Vi  from EnglishDic order by LOWER(en) COLLATE NOCASE ASC
+
+2). Duplicate Rows:
+DELETE FROM DictionaryEV
+WHERE Id NOT IN (
+  SELECT MIN(Id) 
+  FROM DictionaryEV 
+  GROUP BY En
+)
+
+3. Auto increase ID:
+CREATE TABLE DictionaryEV3 (Id INTEGER PRIMARY KEY AUTOINCREMENT, En TEXT,Vi TEXT)
+INSERT INTO DictionaryEV3 (En, Vi)
+SELECT En,Vi  FROM DictionaryEV
