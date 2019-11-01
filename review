@@ -28,3 +28,6 @@ Context thể hiện trạng thái hiện tại của application/object. Contex
 khởi tạo các thành phần và truy cập các thành phần.( Các thành phần này được định nghĩa trong tệp Manifest,
 nó bao gồm phần chính là Activity (UI), Service (Background), 
 BroadcastReceiver (Action), ContentProvider (Data), và các Resources (images, strings...).)
+
+7. Bitmap:
+https://viblo.asia/p/xu-ly-bitmap-trong-android-1VgZv1pRKAw
