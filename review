@@ -17,3 +17,6 @@ quay trở lại trạng thái Resumed
 - Glide cache các kích thước ImageView,Picasso lại cache một kích thước đầy đủ.
 (Khi load cùng 1 link ảnh vào 2 ImageView có size khác nhau: Glide tải 2 lần, cache 2 ảnh, Picass tải 1 lần. cache 1 ảnh)
 - Glide tải được ảnh GIF, Hỗ trợ nhiều Animation khi load ảnh. Picass so chỉ có fade-in
+
+Cách Glide hoạt động (cache,..)
+https://techblog.vn/cach-thu-vien-anh-glide-hoat-dong-trong-android
