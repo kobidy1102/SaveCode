@@ -6,3 +6,14 @@ https://kipalog.com/posts/Ba-n-thu--c-su---da--bie--t-khi-na-o-du-ng-Interface-k
 
 Cơ chế làm việc của HashMap:
 https://techmaster.vn/posts/34068/co-che-cua-hashmap
+
+Glide vs Picasso:
+- Glide thực hiện trong Activity/Fragment là: việc tải ảnh sẽ được tích hợp cùng với vòng đời của Activity/Fragment,
+ví dụ: Glide sẽ tạm dừng tải ảnh khi Activity/Fragment đang ở trạng thái Paused, và nó sẽ tự động tiếp tục khi Activity/Fragment 
+quay trở lại trạng thái Resumed
+- Glide mượt hơn, chiếm ít bộ nhớ hơn (Glide có chất lượng kém hơn so với Picasso. Glide định dạng Bitmap mặc định có định dạng RGB_565,
+định dạng này sẽ chỉ chiếm 50% bộ nhớ so với định dạng ARGB_8888)
+- Picasso tải hình ảnh kích thước đầy đủ. Glide tải ảnh chính xác kích thước của ImageView. 
+- Glide cache các kích thước ImageView,Picasso lại cache một kích thước đầy đủ.
+(Khi load cùng 1 link ảnh vào 2 ImageView có size khác nhau: Glide tải 2 lần, cache 2 ảnh, Picass tải 1 lần. cache 1 ảnh)
+- Glide tải được ảnh GIF, Hỗ trợ nhiều Animation khi load ảnh. Picass so chỉ có fade-in
