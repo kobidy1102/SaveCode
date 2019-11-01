@@ -1,13 +1,13 @@
-Quản lý bộ nhớ trong Java với Heap Space vs Stack:
+1. Quản lý bộ nhớ trong Java với Heap Space vs Stack:
 https://gpcoder.com/2160-quan-ly-bo-nho-trong-java-voi-heap-space-vs-stack/
 
-Dùng Interface, Abstract:
+2. Dùng Interface, Abstract:
 https://kipalog.com/posts/Ba-n-thu--c-su---da--bie--t-khi-na-o-du-ng-Interface-khi-na-o-du-ng-Abstract
 
-Cơ chế làm việc của HashMap:
+3. Cơ chế làm việc của HashMap:
 https://techmaster.vn/posts/34068/co-che-cua-hashmap
 
-Glide vs Picasso:
+4. Glide vs Picasso:
 - Glide thực hiện trong Activity/Fragment là: việc tải ảnh sẽ được tích hợp cùng với vòng đời của Activity/Fragment,
 ví dụ: Glide sẽ tạm dừng tải ảnh khi Activity/Fragment đang ở trạng thái Paused, và nó sẽ tự động tiếp tục khi Activity/Fragment 
 quay trở lại trạng thái Resumed
@@ -18,5 +18,5 @@ quay trở lại trạng thái Resumed
 (Khi load cùng 1 link ảnh vào 2 ImageView có size khác nhau: Glide tải 2 lần, cache 2 ảnh, Picass tải 1 lần. cache 1 ảnh)
 - Glide tải được ảnh GIF, Hỗ trợ nhiều Animation khi load ảnh. Picass so chỉ có fade-in
 
-Cách Glide hoạt động (cache,..)
+5. Cách Glide hoạt động (cache,..)
 https://techblog.vn/cach-thu-vien-anh-glide-hoat-dong-trong-android
