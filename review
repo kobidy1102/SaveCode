@@ -2,6 +2,7 @@
 https://gpcoder.com/2160-quan-ly-bo-nho-trong-java-voi-heap-space-vs-stack/
 
 2. Dùng Interface, Abstract:
+Abstract BaseActivity để set font, ngôn ngữ, loading
 https://kipalog.com/posts/Ba-n-thu--c-su---da--bie--t-khi-na-o-du-ng-Interface-khi-na-o-du-ng-Abstract
 
 3. Cơ chế làm việc của HashMap:
