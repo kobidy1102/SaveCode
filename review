@@ -37,6 +37,11 @@ https://viblo.asia/p/xu-ly-bitmap-trong-android-1VgZv1pRKAw
 https://viblo.asia/p/android-nhung-design-pattern-thong-dung-trong-android-RQqKLvJ6l7z
 https://kipalog.com/posts/Nhung-Design-Pattern-thuong-dung-trong-Android
 - Facade Pattern: https://stackjava.com/design-pattern/facade-pattern.html
+- Adapter Pattern: (bộ chuyển đổi) cho phép các inteface (giao diện) không liên quan tới nhau có thể làm việc cùng nhau. 
+Đối tượng giúp kết nối các interface gọi là Adapter.
+ giữ vai trò trung gian giữa hai lớp, chuyển đổi interface của một hay nhiều lớp có sẵn thành một interface khác,
+ thích hợp cho lớp đang viết. Điều này cho phép các lớp có các interface khác nhau có thể dễ dàng giao tiếp tốt với nhau 
+ thông qua interface trung gian, không cần thay đổi code của lớp có sẵn cũng như lớp đang viết.
 
 9. MVC, MVP, MVVM
 https://techblog.vn/architecture-patterns-mvc-mvp-va-mvvm
@@ -52,3 +57,9 @@ https://viblo.asia/p/tong-quan-service-trong-android-maGK7M8elj2
 12. OOP
 https://techtalk.vn/4-tinh-chat-cua-lap-trinh-huong-doi-tuong-trong-java.html
 https://toidicode.com/cach-tinh-chat-dac-thu-cua-huong-doi-tuong-101.html
+
+13. Rx
+subscribeOn()  (Tác dụng 1 lần đầu gọi)
+Operator này để chỉ định thread mà các operator tính toán xử lí tạo thằng Observable(Thằng được quan sát)
+observeOn()  (Được gọi nhiều lần, Ví dụ filter ở IO, và subscribe ở Main)
+Sử dụng toán tử này để chỉ định thread mà operator hoặc subscriber được gọi sau nó
