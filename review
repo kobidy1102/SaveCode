@@ -25,8 +25,8 @@ https://techblog.vn/cach-thu-vien-anh-glide-hoat-dong-trong-android
 6. Context:
 https://techblog.vn/android-context-la-gi-su-dung-sao-cho-dung
 https://vntalking.com/context-trong-android-la-gi.html
-Context thể hiện trạng thái hiện tại của application/object. Context là cầu nối giữa các thành phần. Bạn sử dụng nó để giao tiếp giữa các thành phần,
-khởi tạo các thành phần và truy cập các thành phần.( Các thành phần này được định nghĩa trong tệp Manifest,
+Context thể hiện trạng thái hiện tại của application/object. Context là cầu nối giữa các thành phần. Bạn sử dụng nóđể giao tiếp
+giữa các thành phần,khởi tạo các thành phần và truy cập các thành phần.( Các thành phần này được định nghĩa trong tệp Manifest,
 nó bao gồm phần chính là Activity (UI), Service (Background), 
 BroadcastReceiver (Action), ContentProvider (Data), và các Resources (images, strings...).)
 
