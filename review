@@ -63,3 +63,9 @@ subscribeOn()  (Tác dụng 1 lần đầu gọi)
 Operator này để chỉ định thread mà các operator tính toán xử lí tạo thằng Observable(Thằng được quan sát)
 observeOn()  (Được gọi nhiều lần, Ví dụ filter ở IO, và subscribe ở Main)
 Sử dụng toán tử này để chỉ định thread mà operator hoặc subscriber được gọi sau nó
+
+14.Process:
+Theo mặc định, tất cả thành phần của cùng ứng dụng sẽ chạy trong cùng tiến trình và hầu hết các ứng dụng sẽ không thay đổi điều này.
+Tuy nhiên, nếu bạn thấy rằng mình cần kiểm soát một thành phần cụ thể thuộc về một tiến trình nào đó, 
+bạn có thể làm vậy trong tệp bản kê khai.
+https://viblo.asia/p/android-process-va-do-uu-tien-ByEZkNQyKQ0
