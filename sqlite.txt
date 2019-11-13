@@ -12,6 +12,7 @@ WHERE Id NOT IN (
 )
 
 3. Auto increase ID:
-CREATE TABLE DictionaryEV3 (Id INTEGER PRIMARY KEY AUTOINCREMENT, En TEXT,Vi TEXT)
-INSERT INTO DictionaryEV3 (En, Vi)
-SELECT En,Vi  FROM DictionaryEV
+CREATE TABLE Voc(id INTEGER PRIMARY KEY AUTOINCREMENT, word TEXT, mean TEXT, type TEXT, ipa TEXT)
+
+INSERT INTO Voc(word, mean, type, ipa)
+SELECT en,vi,loai,phienAm  FROM tu
