@@ -16,3 +16,5 @@ CREATE TABLE Voc(id INTEGER PRIMARY KEY AUTOINCREMENT, word TEXT, mean TEXT, typ
 
 INSERT INTO Voc(word, mean, type, ipa)
 SELECT en,vi,loai,phienAm  FROM tu
+
+VACUUM
