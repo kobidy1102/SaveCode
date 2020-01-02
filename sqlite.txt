@@ -18,3 +18,7 @@ INSERT INTO Voc(word, mean, type, ipa)
 SELECT en,vi,loai,phienAm  FROM tu
 
 VACUUM
+
+4. create index
+CREATE INDEX word ON Voc(word);
+
