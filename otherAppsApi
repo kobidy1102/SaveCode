@@ -1,0 +1,25 @@
+[
+{
+"imageURL":"https://lh3.googleusercontent.com/HG-iKvF3W9QYXGflmJUPvcs188YcZvPKDQ0KGssEAnq0Rp3RXupMXnbTbys-QNbYdQ=s360-rw",
+"appName":"English Arabic Dictionary & Vocabulary",
+"appLink":"https://play.google.com/store/apps/details?id=com.dictionary_vocabulary.english_arabic",
+"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary",
+"languageTarget": "Arabic"
+},
+
+{
+"imageURL":"https://lh3.googleusercontent.com/q8L8nIEplXj4uJucIBR2OcfAIFYdy08bG9eyHInVawFRXcFfKpuY6aQUp0AiF66KNw=s360-rw",
+"appName":"Nhắc nhở học từ vựng",
+"appLink":"https://play.google.com/store/apps/details?id=com.dictionary_vocabulary.english_vietnamese",
+"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Vietnamese dictionary",
+"languageTarget": "Vietnamese"
+},
+
+{
+"imageURL":"https://lh3.googleusercontent.com/Au2FUkP8UedDjVl4k-6X9JX8WO22B7TvEXVYd0AHVsCuHTyR5Wu9Lsh0UEbX_e-WQSoG=s360-rw",
+"appName":"Free Translate, Voice, Camera, Image",
+"appLink":"https://play.google.com/store/apps/details?id=com.voice_camera_free_translate",
+"detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.\n- All free",
+"languageTarget": "All"
+}
+]
