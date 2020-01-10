@@ -5,7 +5,7 @@
 "appLink":"https://play.google.com/store/apps/details?id=com.dictionary_vocabulary.english_arabic",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary",
 "languageTarget": "Arabic",
-"showDialog": 10
+"countShowDialog": 10
 },
 
 {
@@ -14,7 +14,7 @@
 "appLink":"https://play.google.com/store/apps/details?id=com.dictionary_vocabulary.english_vietnamese",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Vietnamese dictionary",
 "languageTarget": "Vietnamese",
-"showDialog": 10
+"countShowDialog": 10
 },
 
 {
@@ -23,6 +23,6 @@
 "appLink":"https://play.google.com/store/apps/details?id=com.voice_camera_free_translate",
 "detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.\n- All free",
 "languageTarget": "All",
-"showDialog": 10
+"countShowDialog": 10
 }
 ]
