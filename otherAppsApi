@@ -5,7 +5,7 @@
 "packageName":"com.dictionary_vocabulary.english_arabic",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary English Arabic dictionary",
 "languageTarget": "Arabic",
-"countShowDialog": 6
+"countShowDialog": 7
 },
 
 {
@@ -14,7 +14,7 @@
 "packageName":"com.dictionary_vocabulary.english_vietnamese",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Vietnamese dictionary",
 "languageTarget": "Vietnamese",
-"countShowDialog": 6
+"countShowDialog": 7
 },
 
 {
