@@ -1,10 +1,18 @@
 [
 {
 "imageURL":"https://lh3.googleusercontent.com/HG-iKvF3W9QYXGflmJUPvcs188YcZvPKDQ0KGssEAnq0Rp3RXupMXnbTbys-QNbYdQ=s360-rw",
-"appName":"English Arabic Dictionary & Vocabulary",
+"appName":"English Arabic Dictionary & Learn Vocabulary",
 "packageName":"com.dictionary_vocabulary.english_arabic",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary English Arabic dictionary",
 "languageTarget": "Arabic",
+"countShowDialog": 7
+},
+{
+"imageURL":"https://lh3.googleusercontent.com/pfWUK-x7-PPFcwFjt50mGJDnFwtfZHOTQALoWwb1Eulooq9dn0G5JNJjOksWHjh-jg",
+"appName":"English Portuguese Dictionary & Learn Vocabulary",
+"packageName":"com.dictionary_vocabulary.english_portuguese",
+"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary English Portuguese dictionary",
+"languageTarget": "Portuguese",
 "countShowDialog": 7
 },
 
