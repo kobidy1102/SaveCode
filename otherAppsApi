@@ -1,5 +1,13 @@
 [
 {
+"imageURL":"https://lh3.googleusercontent.com/5Bj1v4Kt_PF1_6tiiFBPOdr7esY7rpTo3b4eu3hUGwtH2Hs6J6ZSnEZbUHHnqdsewgU",
+"appName":"English Russian Dictionary & Learn Vocabulary",
+"packageName":"com.dictionary_vocabulary.english_russian",
+"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Russian dictionary",
+"languageTarget": "Russian",
+"countShowDialog": 7
+},
+{
 "imageURL":"https://lh3.googleusercontent.com/FlYEDCgYxCZUOHv_1OIyhfa_1RawlTWptkgVmM56Xw3pWxlRfALFcYNEbAUH9YxT2GJu",
 "appName":"English Arabic Dictionary & Learn Vocabulary",
 "packageName":"com.dictionary_vocabulary.english_arabic",
