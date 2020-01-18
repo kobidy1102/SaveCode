@@ -1,5 +1,13 @@
 [
 {
+"imageURL":"https://lh3.googleusercontent.com/uyV8vRlpWnoF7h22OqM0k-Yu3TPlt6flac5I_-0KIEdWZs3HjMwdzeEAQ-87yC97Mhj-=s180-rw",
+"appName":"English Spanish Dictionary & Learn Vocabulary",
+"packageName":"com.dictionary_vocabulary.english_spanish",
+"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Spanish dictionary",
+"languageTarget": "Spanish",
+"countShowDialog": 7
+},
+{
 "imageURL":"https://lh3.googleusercontent.com/5Bj1v4Kt_PF1_6tiiFBPOdr7esY7rpTo3b4eu3hUGwtH2Hs6J6ZSnEZbUHHnqdsewgU",
 "appName":"English Russian Dictionary & Learn Vocabulary",
 "packageName":"com.dictionary_vocabulary.english_russian",
