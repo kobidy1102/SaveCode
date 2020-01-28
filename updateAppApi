@@ -6,6 +6,6 @@
 "detail":"abc",
 "requiredUpdate":true,
 "showCancelButton":true,
-"countShowDialog":3,
+"countShowDialog":3
 }
 ]
