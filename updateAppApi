@@ -3,6 +3,7 @@
 "packageName":"com.example.testmybasecode",
 "versionCode": 2,
 "versionName":"1.2",
+"detail":"abc",
 "requiredUpdate":true,
 "showCancelButton":true
 "countShowDialog":3,
