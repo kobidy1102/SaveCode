@@ -5,7 +5,7 @@
 "versionName":"1.2",
 "detail":"abc",
 "requiredUpdate":true,
-"showCancelButton":true
+"showCancelButton":true,
 "countShowDialog":3,
 }
 ]
