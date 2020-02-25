@@ -7,5 +7,14 @@
 "requiredUpdate":true,
 "showCancelButton":false,
 "countShowDialog":3
+},
+{
+"packageName":"com.tap_to_translate.snap_translate",
+"versionCode": 2,
+"versionName":"1.2",
+"detail":"",
+"requiredUpdate":true,
+"showCancelButton":false,
+"countShowDialog":7
 }
 ]
