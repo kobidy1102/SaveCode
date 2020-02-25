@@ -13,7 +13,7 @@
 "versionCode": 2,
 "versionName":"1.2",
 "detail":"",
-"requiredUpdate":true,
+"requiredUpdate":false,
 "showCancelButton":false,
 "countShowDialog":7
 }
