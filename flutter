@@ -15,3 +15,5 @@ Container(
  
  
 3. ListView, FlatBotton mặc định có padding, muốn ko có padding thì set Padding.all(0).
+
+4. SingleScrollView bị lỗi  -> Check xem có dùng Spacer() ko
