@@ -1,0 +1,17 @@
+1.Có color ở decoration rồi thì xóa color ở Container:
+Container(
+        height: 100,
+        width: MediaQuery.of(context).size.width,
+//Xóa        color: Color.fromRGBO(74, 144, 226, 0.12), 
+        decoration: BoxDecoration(
+        color: Color.fromRGBO(74, 144, 226, 0.12),
+            borderRadius: BorderRadius.all(Radius.circular(4))
+        ),
+        child: (Text('abc')),
+        
+ 2. InkWell muốn có animation, hiệu ứng click:
+ - Xóa color trong Container của widget parent, child
+ - Muốn có màu thì bọc Material-> Inkwell. set color trong Material.
+ 
+ 
+3. ListView, FlatBotton mặc định có padding, muốn ko có padding thì set Padding.all(0).
