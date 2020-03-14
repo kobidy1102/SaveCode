@@ -14,7 +14,7 @@
 "versionName":"1.6",
 "detail":"",
 "requiredUpdate":true,
-"showCancelButton":false,
-"countShowDialog":7
+"showCancelButton":true,
+"countShowDialog":4
 }
 ]
