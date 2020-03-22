@@ -17,3 +17,10 @@ Container(
 3. ListView, FlatBotton mặc định có padding, muốn ko có padding thì set Padding.all(0).
 
 4. SingleScrollView bị lỗi  -> Check xem có dùng Spacer() ko
+
+5. TextField
+ decoration: InputDecoration(
+                    border: InputBorder.none,   //reomove underline
+                    isDense: true,                      //remove space to underline
+                    contentPadding: EdgeInsets.symmetric(vertical: 0),   //remove space content
+              )
