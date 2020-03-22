@@ -20,7 +20,7 @@ Container(
 
 5. TextField
  decoration: InputDecoration(
-                    border: InputBorder.none,   //reomove underline
+                    border: InputBorder.none,   //hide underline
                     isDense: true,                      //remove space to underline
                     contentPadding: EdgeInsets.symmetric(vertical: 0),   //remove space content
               )
