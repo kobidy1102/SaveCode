@@ -16,5 +16,14 @@
 "requiredUpdate":true,
 "showCancelButton":false,
 "countShowDialog":4
+},
+{
+"packageName":"com.recognize_text.translate.screen",
+"versionCode": 83,
+"versionName":"1.83",
+"detail":"",
+"requiredUpdate":true,
+"showCancelButton":false,
+"countShowDialog":4
 }
 ]
