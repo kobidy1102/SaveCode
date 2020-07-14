@@ -13,7 +13,7 @@
 "packageName":"com.dictionary_vocabulary.english_spanish",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Spanish dictionary",
 "languageTarget": "Spanish",
-"countShowDialog": 7
+"countShowDialog": 20
 },
 {
 "imageURL":"https://lh3.googleusercontent.com/5Bj1v4Kt_PF1_6tiiFBPOdr7esY7rpTo3b4eu3hUGwtH2Hs6J6ZSnEZbUHHnqdsewgU",
@@ -21,7 +21,7 @@
 "packageName":"com.dictionary_vocabulary.english_russian",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Russian dictionary",
 "languageTarget": "Russian",
-"countShowDialog": 7
+"countShowDialog": 20
 },
 {
 "imageURL":"https://lh3.googleusercontent.com/FlYEDCgYxCZUOHv_1OIyhfa_1RawlTWptkgVmM56Xw3pWxlRfALFcYNEbAUH9YxT2GJu",
@@ -29,7 +29,7 @@
 "packageName":"com.dictionary_vocabulary.english_arabic",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary",
 "languageTarget": "Arabic",
-"countShowDialog": 7
+"countShowDialog": 20
 },
 {
 "imageURL":"https://lh3.googleusercontent.com/5GVNKFEUcyyZ2nBd8t3-4iXwBq_XlxAWopZFd64MB77yW8osq0GqWREwOC7cvP71tw",
@@ -37,7 +37,7 @@
 "packageName":"com.dictionary_vocabulary.english_portuguese",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Portuguese dictionary",
 "languageTarget": "Portuguese",
-"countShowDialog": 7
+"countShowDialog": 20
 },
 
 {
@@ -46,7 +46,7 @@
 "packageName":"com.dictionary_vocabulary.english_vietnamese",
 "detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Vietnamese dictionary",
 "languageTarget": "Vietnamese",
-"countShowDialog": 7
+"countShowDialog": 20
 },
 
 {
@@ -56,5 +56,13 @@
 "detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.\n- All free",
 "languageTarget": "All",
 "countShowDialog": 0
+},
+{
+"imageURL":"https://lh3.googleusercontent.com/G7kq2XWkYtZnEa9z0sJnqCZUUymN7Axv9tUfpmY-BX_VTRPjrLCkX-A0miqre0K0PK0=s360-rw",
+"appName":"EZ Auto Click",
+"packageName":"com.ez.auto_click",
+"detail":"- Easy to use Auto Click.\n- Record touch events and replay.\n- Auto games, auto other apps",
+"languageTarget": "All",
+"countShowDialog": 7
 }
 ]
