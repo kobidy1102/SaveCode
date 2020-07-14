@@ -1,5 +1,13 @@
 [
 {
+"imageURL":"https://lh3.googleusercontent.com/G7kq2XWkYtZnEa9z0sJnqCZUUymN7Axv9tUfpmY-BX_VTRPjrLCkX-A0miqre0K0PK0=s360-rw",
+"appName":"EZ Auto Click",
+"packageName":"com.ez.auto_click",
+"detail":"- Easy to use Auto Click.\n- Record touch events and replay.\n- Auto games, auto other apps",
+"languageTarget": "All",
+"countShowDialog": 7
+},
+{
 "imageURL":"https://lh3.googleusercontent.com/EkQ2uhIzrGdKLbFGvSGQh5SURy_dPqCPNolQ71dBazrhxrDjnraR4rx_N2jMBpSSwPM",
 "appName":"Easy VPN Free",
 "packageName":"com.easy_vpn.fake_ip",
@@ -56,13 +64,5 @@
 "detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.\n- All free",
 "languageTarget": "All",
 "countShowDialog": 0
-},
-{
-"imageURL":"https://lh3.googleusercontent.com/G7kq2XWkYtZnEa9z0sJnqCZUUymN7Axv9tUfpmY-BX_VTRPjrLCkX-A0miqre0K0PK0=s360-rw",
-"appName":"EZ Auto Click",
-"packageName":"com.ez.auto_click",
-"detail":"- Easy to use Auto Click.\n- Record touch events and replay.\n- Auto games, auto other apps",
-"languageTarget": "All",
-"countShowDialog": 7
 }
 ]
