@@ -19,8 +19,8 @@
 },
 {
 "packageName":"com.recognize_text.translate.screen",
-"versionCode": 83,
-"versionName":"1.83",
+"versionCode": 85,
+"versionName":"1.85",
 "detail":"",
 "requiredUpdate":true,
 "showCancelButton":false,
