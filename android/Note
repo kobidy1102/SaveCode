@@ -1,0 +1,3 @@
+2 recycleview in NesteScollView.
+Nếu khi scroll bị nhảy xuống recycle thứ 2 thì dùng 
+        android:descendantFocusability="blocksDescendants" trong linearLayout. chứa 2 list
