@@ -1,3 +1,4 @@
-2 recycleview in NesteScollView.
+1: 2 recycleview in NesteScollView.
 Nếu khi scroll bị nhảy xuống recycle thứ 2 thì dùng 
         android:descendantFocusability="blocksDescendants" trong linearLayout. chứa 2 list
+2: Sư dụng fragment anatation thì khi new nhớ thêm dâu _ . AFragment aFragment= new AFragment_();
