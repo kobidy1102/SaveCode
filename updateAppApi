@@ -19,11 +19,11 @@
 },
 {
 "packageName":"com.recognize_text.translate.screen",
-"versionCode": 85,
-"versionName":"1.85",
+"versionCode": 89,
+"versionName":"1.89",
 "detail":"",
 "requiredUpdate":true,
-"showCancelButton":false,
+"showCancelButton":true,
 "countShowDialog":4
 }
 ]
