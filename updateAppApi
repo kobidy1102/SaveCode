@@ -14,7 +14,7 @@
 "versionName":"1.19",
 "detail":"",
 "requiredUpdate":true,
-"showCancelButton":false,
+"showCancelButton":true,
 "countShowDialog":4
 },
 {
