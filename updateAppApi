@@ -10,8 +10,8 @@
 },
 {
 "packageName":"com.tap_to_translate.snap_translate",
-"versionCode": 9,
-"versionName":"1.9",
+"versionCode": 19,
+"versionName":"1.19",
 "detail":"",
 "requiredUpdate":true,
 "showCancelButton":false,
