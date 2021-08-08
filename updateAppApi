@@ -14,7 +14,7 @@
 "versionName":"1.35",
 "detail":"",
 "requiredUpdate":true,
-"showCancelButton":false,
+"showCancelButton":true,
 "countShowDialog":1
 },
 {
