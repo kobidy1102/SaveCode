@@ -10,11 +10,11 @@
 },
 {
 "packageName":"com.tap_to_translate.snap_translate",
-"versionCode": 19,
-"versionName":"1.19",
+"versionCode": 35,
+"versionName":"1.35",
 "detail":"",
 "requiredUpdate":true,
-"showCancelButton":true,
+"showCancelButton":false,
 "countShowDialog":1
 },
 {
