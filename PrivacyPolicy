@@ -6,10 +6,11 @@
 - About my apps:
  + My applications do not collect user information.
  + Some applications need access to memory to store data, get photos for translation.
- + Display permissions on other applications to help the application appear on the screen, 
+ + Permissions to Display on other apps help the app appear on the screen, appear on other apps,
    help learn English vocabulary anytime, anywhere even when you are surfing the web, facebook.
- + The right to record video on the screen makes it possible for the app to take screenshots to translate screen text. 
-   I do not use these images for other purposes.
+ + Permission Accessibility or Screen Capture is a permission that every screen translation application needs 
+   to be able to translate the screen, it helps the application to scan the words on the captured image for translation.
+   We do not use these images for any other purpose.
  + To help apps grow, I've added ads to my apps. I would be happy if you buy the ad removal package,
    or watch the videos to remove ads
 
