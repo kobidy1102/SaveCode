@@ -1,5 +1,13 @@
 [
 {
+"imageURL":"https://lh3.googleusercontent.com/xBiw250D8Or46qt-dXymx4opwyRm6X9iiH81pD1X4fxBksYHDPVh_yberfnHcx2iow",
+"appName":"Subtitle Translator - Translate Video Subtitles",
+"packageName":"com.translate_subtitles.video_translate",
+"detail":"- Real-time video subtitle translation\n- Translate video subtitles on other apps\n- Support more than 50 languages",
+"languageTarget": "All",
+"countShowDialog": 5
+},
+{
 "imageURL":"https://lh3.googleusercontent.com/uyV8vRlpWnoF7h22OqM0k-Yu3TPlt6flac5I_-0KIEdWZs3HjMwdzeEAQ-87yC97Mhj-=s180-rw",
 "appName":"English Spanish Dictionary & Learn Vocabulary",
 "packageName":"com.dictionary_vocabulary.english_spanish",
