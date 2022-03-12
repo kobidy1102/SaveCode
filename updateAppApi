@@ -10,8 +10,8 @@
 },
 {
 "packageName":"com.tap_to_translate.snap_translate",
-"versionCode": 46,
-"versionName":"1.46",
+"versionCode": 55,
+"versionName":"1.55",
 "detail":"",
 "requiredUpdate":true,
 "showCancelButton":true,
@@ -19,11 +19,11 @@
 },
 {
 "packageName":"com.recognize_text.translate.screen",
-"versionCode": 89,
-"versionName":"1.89",
+"versionCode": 102,
+"versionName":"1.102",
 "detail":"",
 "requiredUpdate":true,
 "showCancelButton":true,
-"countShowDialog":1
+"countShowDialog":6
 }
 ]
