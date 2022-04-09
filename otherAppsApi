@@ -5,7 +5,7 @@
 "packageName":"com.translate_subtitles.video_translate",
 "detail":"- Real-time video subtitle translation\n- Translate video subtitles on other apps\n- Support more than 50 languages",
 "languageTarget": "All",
-"countShowDialog": 7
+"countShowDialog": 22
 },
 {
 "imageURL":"https://lh3.googleusercontent.com/uyV8vRlpWnoF7h22OqM0k-Yu3TPlt6flac5I_-0KIEdWZs3HjMwdzeEAQ-87yC97Mhj-=s180-rw",
@@ -55,6 +55,6 @@
 "packageName":"com.voice_camera_free_translate",
 "detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.\n- All free",
 "languageTarget": "All",
-"countShowDialog": 0
+"countShowDialog": 35
 }
 ]
