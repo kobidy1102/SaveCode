@@ -7,7 +7,9 @@
 "requiredUpdate":true,
 "showCancelButton":false,
 "countShowDialog":1,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c"
+"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"packageTarget":"com.easy_vpn.fake_ip",
+"backup":0
 },
 {
 "packageName":"com.tap_to_translate.snap_translate",
@@ -17,7 +19,9 @@
 "requiredUpdate":true,
 "showCancelButton":true,
 "countShowDialog":8,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c"
+"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"packageTarget":"com.tap_to_translate.snap_translate",
+"backup":0
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -27,6 +31,8 @@
 "requiredUpdate":true,
 "showCancelButton":true,
 "countShowDialog":6,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c"
+"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"packageTarget":"com.recognize_text.translate.screen",
+"backup":0
 }
 ]
