@@ -8,48 +8,6 @@
 "countShowDialog": 22
 },
 {
-"imageURL":"https://lh3.googleusercontent.com/uyV8vRlpWnoF7h22OqM0k-Yu3TPlt6flac5I_-0KIEdWZs3HjMwdzeEAQ-87yC97Mhj-=s180-rw",
-"appName":"English Spanish Dictionary & Learn Vocabulary",
-"packageName":"com.dictionary_vocabulary.english_spanish",
-"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Spanish dictionary",
-"languageTarget": "Spanish",
-"countShowDialog": 29
-},
-{
-"imageURL":"https://lh3.googleusercontent.com/5Bj1v4Kt_PF1_6tiiFBPOdr7esY7rpTo3b4eu3hUGwtH2Hs6J6ZSnEZbUHHnqdsewgU",
-"appName":"English Russian Dictionary & Learn Vocabulary",
-"packageName":"com.dictionary_vocabulary.english_russian",
-"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Russian dictionary",
-"languageTarget": "Russian",
-"countShowDialog": 29
-},
-{
-"imageURL":"https://lh3.googleusercontent.com/FlYEDCgYxCZUOHv_1OIyhfa_1RawlTWptkgVmM56Xw3pWxlRfALFcYNEbAUH9YxT2GJu",
-"appName":"English Arabic Dictionary & Learn Vocabulary",
-"packageName":"com.dictionary_vocabulary.english_arabic",
-"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Arabic dictionary",
-"languageTarget": "Arabic",
-"countShowDialog": 29
-},
-{
-"imageURL":"https://lh3.googleusercontent.com/5GVNKFEUcyyZ2nBd8t3-4iXwBq_XlxAWopZFd64MB77yW8osq0GqWREwOC7cvP71tw",
-"appName":"English Portuguese Dictionary & Learn Vocabulary",
-"packageName":"com.dictionary_vocabulary.english_portuguese",
-"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Portuguese dictionary",
-"languageTarget": "Portuguese",
-"countShowDialog": 29
-},
-
-{
-"imageURL":"https://lh3.googleusercontent.com/q8L8nIEplXj4uJucIBR2OcfAIFYdy08bG9eyHInVawFRXcFfKpuY6aQUp0AiF66KNw=s360-rw",
-"appName":"Nhắc nhở học từ vựng",
-"packageName":"com.dictionary_vocabulary.english_vietnamese",
-"detail":"- Learning vocabulary floating on screen\n- 1000 basic vocabulary\n- 3000 popular vocabulary\n- Toeic, Ielts, Toefl vocabulary\n- English Vietnamese dictionary",
-"languageTarget": "Vietnamese",
-"countShowDialog": 29
-},
-
-{
 "imageURL":"https://lh3.googleusercontent.com/QS4tPT9h6_urkp1TJLvQrHyUWeg8zlwgkDx4ICGVJCoFcqWWLruviHRfd7R9LdDk2r8",
 "appName":"AZ Translate, Voice, Camera, Image",
 "packageName":"com.voice_camera_free_translate",
