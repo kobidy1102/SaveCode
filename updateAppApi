@@ -19,7 +19,7 @@
 "requiredUpdate":true,
 "showCancelButton":true,
 "countShowDialog":3,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"id":"257cbe6329msha4e36e565a098abp1df0dbjsne75792565ca2",
 "packageTarget":"com.tap_to_translate.snap_translate",
 "backup":0
 },
@@ -31,7 +31,7 @@
 "requiredUpdate":true,
 "showCancelButton":true,
 "countShowDialog":3,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"id":"257cbe6329msha4e36e565a098abp1df0dbjsne75792565ca2",
 "packageTarget":"com.recognize_text.translate.screen",
 "backup":0
 },
@@ -43,7 +43,7 @@
 "requiredUpdate":true,
 "showCancelButton":true,
 "countShowDialog":6,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
+"id":"257cbe6329msha4e36e565a098abp1df0dbjsne75792565ca2",
 "packageTarget":"com.voice_camera_free_translate",
 "backup":1
 }
