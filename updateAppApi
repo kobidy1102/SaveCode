@@ -21,7 +21,7 @@
 "countShowDialog":10,
 "id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
 "packageTarget":"com.tap_to_translate.snap_translate",
-"backup":0
+"backup":1
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -33,7 +33,7 @@
 "countShowDialog":8,
 "id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
 "packageTarget":"com.recognize_text.translate.screen",
-"backup":0
+"backup":1
 },
 {
 "packageName":"com.voice_camera_free_translate",
