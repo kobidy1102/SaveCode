@@ -1,12 +1,12 @@
 [
 {
 "packageName":"com.tap_to_translate.snap_translate",
-"versionCode": 78,
-"versionName":"1.78",
+"versionCode": 83,
+"versionName":"1.83",
 "detail":"",
 "requiredUpdate":true,
 "showCancelButton":true,
-"countShowDialog":10,
+"countShowDialog":3,
 "id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
 "packageTarget":"com.tap_to_translate.snap_translate",
 "backup":0,
