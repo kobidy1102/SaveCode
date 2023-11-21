@@ -25,7 +25,7 @@
 "packageTarget":"com.recognize_text.translate.screen",
 "backup":0,
 "note":"",
-"urlTranslate":"https://api1.aibitranslator.com/"
+"urlTranslate":"https://api.aibitranslator.com/"
 },
 {
 "packageName":"com.voice_camera_free_translate",
