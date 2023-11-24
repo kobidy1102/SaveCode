@@ -1,17 +1,9 @@
 [
 {
-"imageURL":"https://lh3.googleusercontent.com/xBiw250D8Or46qt-dXymx4opwyRm6X9iiH81pD1X4fxBksYHDPVh_yberfnHcx2iow",
-"appName":"Subtitle Translator - Translate Video Subtitles",
-"packageName":"com.translate_subtitles.video_translate",
-"detail":"- Real-time video subtitle translation\n- Translate video subtitles on other apps\n- Support more than 50 languages",
-"languageTarget": "All",
-"countShowDialog": 22
-},
-{
 "imageURL":"https://lh3.googleusercontent.com/QS4tPT9h6_urkp1TJLvQrHyUWeg8zlwgkDx4ICGVJCoFcqWWLruviHRfd7R9LdDk2r8",
 "appName":"AZ Translate, Voice, Camera, Image",
 "packageName":"com.voice_camera_free_translate",
-"detail":"- Translate text, camera, voice, image.\n- Support 100+ languages.",
+"detail":"- Translate text, photo, camera, voice.\n- Support 100+ languages.",
 "languageTarget": "All",
 "countShowDialog": 35
 }
