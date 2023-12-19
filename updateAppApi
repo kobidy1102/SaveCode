@@ -26,7 +26,7 @@
 "packageTarget":"com.recognize_text.translate.screen",
 "backup":0,
 "note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
-"urlTranslate":"https://api4.aibitranslator.com/"
+"urlTranslate":"https://api3.aibitranslator.com/"
 },
 {
 "packageName":"com.voice_camera_free_translate",
