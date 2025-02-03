@@ -11,7 +11,11 @@
 "packageTarget":"com.tap_to_translate.snap_translate",
 "backup":1,
 "note":"If the translation is not good, please change the translator selection to 'MyDefault Translate'",
-"urlTranslate":"https://api.aifasttranslate.com/"
+"urlTranslate":"https://api.aifasttranslate.com/",
+"default1":2,
+"default2":3,
+"defaultAi2":1,
+"id3":"IQoMXBETUAcEWQITARlBICshTRslABkNOQciIz84PDA5XlwZLQQgIFlELS8DRwc+TQRWGiowAys2DAVeJAQlP04gJFgdPjpEDi04Kh9EDTQRJ1w/NFlDGgs1XTEAAx8jKSw0RBsuIRMOPBwnHD8UAiQoYSMtEwkZIQVYH1sAMQ43KjRgGSUYOAJHIVQpEChMGgxkOwA4JkIWNFsVIjYnHAc4Xx1ZJwA6Ij0z"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
