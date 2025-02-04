@@ -15,10 +15,7 @@
 "default1":1,
 "default2":3,
 "defaultAi1":3,
-"defaultAi2":2,
-"idARe":"IiYXTycYNDIeQDUZNhsAGBw2a0c6AyNCXw0lNi4wRS0uPgYXQxYp",
-"idA":"IiYXTycYM0clMxgKOxhZOU1cYywbJyITKjYIAhU2Hj0WBxofHxI9",
-"id3":"IQoMXBETUAcEWQITARlBICshTRslABkNOQciIz84PDA5XlwZLQQgIFlELS8DRwc+TQRWGiowAys2DAVeJAQlP04gJFgdPjpEDi04Kh9EDTQRJ1w/NFlDGgs1XTEAAx8jKSw0RBsuIRMOPBwnHD8UAiQoYSMtEwkZIQVYH1sAMQ43KjRgGSUYOAJHIVQpEChMGgxkOwA4JkIWNFsVIjYnHAc4Xx1ZJwA6Ij0z"
+"defaultAi2":2
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -37,10 +34,7 @@
 "default1":1,
 "default2":3,
 "defaultAi1":3,
-"defaultAi2":2,
-"idARe":"IiYXTycYNDIeQDUZNhsAGBw2a0c6AyNCXw0lNi4wRS0uPgYXQxYp",
-"idA":"IiYXTycYM0clMxgKOxhZOU1cYywbJyITKjYIAhU2Hj0WBxofHxI9",
-"id3":"IQoMXBcXQxwMQxkICh5INQVsHTUFXkMGNUYMVioGQyw3GScpO38dLhY5AF4mLVQ9CSpHRQVEUlgbKggdVUA6CggdDxhSXgR5Aj03PS0MGBM0HCMMJ2dFBTg6QC4NFg5oOSICIwAqNl8XSTsQAV0ABlAcAjsDQBNUBR0UIzFaFS4VQSktBS4VLCsdGBYFVBEIV1wZNRMNN0oCYxUeKy9BGFMEBB8cEBVSHAEi"
+"defaultAi2":2
 },
 {
 "packageName":"com.voice_camera_free_translate",
