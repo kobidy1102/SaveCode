@@ -1,6 +1,6 @@
 {
 "version": 45,
 "requiredUpdate":false,
-"url":"https://api.aifasttranslate.com/api/v1",
+"url":"https://apimi.aifasttranslate.com/api/v1",
 "note":"New version is available on App Store, Please update the app to fix bugs and update new features!",
 }
