@@ -10,12 +10,12 @@
 "id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
 "packageTarget":"com.tap_to_translate.snap_translate",
 "backup":0,
-"note":"If the translation is not good, please change the translator selection to 'AI Translate'",
+"note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
 "urlTranslate":"https://apimi.aifasttranslate.com/",
-"default1":1,
-"default2":3,
+"default1":2,
+"default2":1,
 "defaultAi1":3,
-"defaultAi2":2
+"defaultAi2":1
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -29,12 +29,12 @@
 "id2":"NQPKMXB7832888A",
 "packageTarget":"com.recognize_text.translate.screen",
 "backup":0,
-"note":"If the translation is not good, please change the translator selection to 'AI Translate'",
+"note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
 "urlTranslate":"https://apimi.aifasttranslate.com/",
-"default1":1,
-"default2":3,
+"default1":2,
+"default2":1,
 "defaultAi1":3,
-"defaultAi2":2
+"defaultAi2":1
 },
 {
 "packageName":"com.voice_camera_free_translate",
