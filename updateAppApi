@@ -33,8 +33,8 @@
 "urlTranslate":"https://apimi.aifasttranslate.com/",
 "default1":2,
 "default2":1,
-"defaultAi1":3,
-"defaultAi2":1
+"defaultAi1":1,
+"defaultAi2":2
 },
 {
 "packageName":"com.voice_camera_free_translate",
