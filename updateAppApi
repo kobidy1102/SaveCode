@@ -31,10 +31,10 @@
 "backup":0,
 "note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
 "urlTranslate":"https://apimi.aifasttranslate.com/",
-"default1":2,
-"default2":1,
-"defaultAi1":1,
-"defaultAi2":2
+"default1":1,
+"default2":2,
+"defaultAi1":2,
+"defaultAi2":1
 },
 {
 "packageName":"com.voice_camera_free_translate",
