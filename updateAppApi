@@ -15,7 +15,8 @@
 "default1":1,
 "default2":2,
 "defaultAi1":2,
-"defaultAi2":1
+"defaultAi2":1,
+"tryAI":true
 },
 {
 "packageName":"com.recognize_text.translate.screen",
