@@ -37,7 +37,8 @@
 "defaultAi1":2,
 "defaultAi2":1,
 "tryAI":true,
-"defaultItemPurchase":1
+"defaultItemPurchase":1,
+"tryAIDaily":50
 },
 {
 "packageName":"com.voice_camera_free_translate",
