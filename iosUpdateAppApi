@@ -1,6 +1,6 @@
 {
 "version": 58,
-"requiredUpdate":false,
+"requiredUpdate":true,
 "url":"https://apimi.aifasttranslate.com/api/v1",
 "id":"UAOKL8qhZ6rbL6-dSNfOnkRmsRXwZ8FEiPFK_k7zA",
 "note":"New version information: \n- Improved translation quality.\n- Increase text display size.     ",
