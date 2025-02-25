@@ -17,7 +17,7 @@
 "defaultAi1":2,
 "defaultAi2":1,
 "tryAIDaily":10,
-"isShowPlans":true,
+"isShowPlans":false,
 "tryAI":true
 },
 {
