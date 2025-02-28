@@ -19,6 +19,7 @@
 "defaultAi2":1,
 "tryAIDaily":50,
 "isShowPlans":true,
+"isHideTranslation":false,
 "tryAI":true
 },
 {
