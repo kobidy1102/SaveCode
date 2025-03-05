@@ -20,7 +20,7 @@
 "tryAIDaily":50,
 "isShowPlans":true,
 "isHideTranslation":false,
-"tryAI":true
+"tryAI":false
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -40,9 +40,9 @@
 "default2":2,
 "defaultAi1":2,
 "defaultAi2":1,
-"tryAI":true,
+"tryAI":false,
 "defaultItemPurchase":0,
-"tryAIDaily":100
+"tryAIDaily":50
 },
 {
 "packageName":"com.voice_camera_free_translate",
