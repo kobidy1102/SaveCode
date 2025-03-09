@@ -17,7 +17,7 @@
 "default2":2,
 "defaultAi1":2,
 "defaultAi2":1,
-"tryAIDaily":50,
+"tryAIDaily":20,
 "isShowPlans":true,
 "isHideTranslation":false,
 "tryAI":false
@@ -42,7 +42,7 @@
 "defaultAi2":1,
 "tryAI":false,
 "defaultItemPurchase":0,
-"tryAIDaily":50
+"tryAIDaily":20
 },
 {
 "packageName":"com.voice_camera_free_translate",
