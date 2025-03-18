@@ -41,7 +41,7 @@
 "defaultAi1":2,
 "defaultAi2":1,
 "tryAI":false,
-"defaultItemPurchase":0,
+"defaultItemPurchase":1,
 "tryAIDaily":20
 },
 {
