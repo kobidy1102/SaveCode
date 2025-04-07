@@ -40,6 +40,7 @@
 "default1":1,
 "default2":2,
 "defaultAi1":2,
+"defaultAi1a":3,
 "defaultAi2":1,
 "tryAI":false,
 "defaultItemPurchase":1,
