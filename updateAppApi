@@ -46,7 +46,7 @@
 "defaultAi2":1,
 "tryAI":false,
 "defaultItemPurchase":1,
-"tryAIDaily":20,
+"tryAIDaily":9,
 "resetAI":100
 },
 {
