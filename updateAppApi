@@ -18,8 +18,8 @@
 "defaultAi1":2,
 "defaultAi1a":3,
 "defaultAi2":1,
-"tryAIDaily":20,
-"resetAI":100,
+"tryAIDaily":50,
+"resetAI":150,
 "isShowPlans":true,
 "isHideTranslation":false,
 "tryAI":false
