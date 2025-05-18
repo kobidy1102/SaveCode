@@ -47,7 +47,13 @@
 "tryAI":false,
 "defaultItemPurchase":1,
 "tryAIDaily":9,
-"resetAI":100
+"resetAI":100,
+"remoteGoogleDefault":"Google Translate",
+"remoteGoogleBackup":"Gemini AI Translate",
+"remoteGeminiDefault":"Gemini AI Translate",
+"remoteGeminiBackup":"Gemini AI Translate Direct",
+"remoteChatGPTDefault":"ChatGPT Translate",
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.voice_camera_free_translate",
