@@ -2,6 +2,7 @@
 "version": 58,
 "requiredUpdate":true,
 "url":"https://apimi.aifasttranslate.com/api/v1",
+"urlAll":"https://apiall.aifasttranslator.com/api/v1",
 "id":"sABDKL8qhZ6r-K2Swh6Yp9aF7Y8Y9ZeEfPZXGJbNA",
 "note":"New version information: \n- Improved translation quality.\n- Increase text display size.     ",
 }
