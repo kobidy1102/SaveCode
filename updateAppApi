@@ -26,9 +26,9 @@
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
-"remoteGeminiBackup":"Gemini AI Translate",
+"remoteGeminiBackup":"ChatGPT Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"ChatGPT Translate"
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -57,9 +57,9 @@
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
-"remoteGeminiBackup":"Gemini AI Translate",
+"remoteGeminiBackup":"ChatGPT Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"ChatGPT Translate"
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.voice_camera_free_translate",
