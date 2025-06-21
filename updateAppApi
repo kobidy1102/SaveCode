@@ -58,8 +58,8 @@
 "remoteGoogleBackup":"Gemini AI Translate",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"Gemini AI Translate",
-"remoteChatGPTDefault":"ChatGPT Translate",
-"remoteChatGPTBackup":"ChatGPT Translate Direct"
+"remoteChatGPTDefault":"ChatGPT Translate Direct",
+"remoteChatGPTBackup":"ChatGPT Translate"
 },
 {
 "packageName":"com.voice_camera_free_translate",
