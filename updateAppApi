@@ -27,8 +27,8 @@
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"Gemini AI Translate",
-"remoteChatGPTDefault":"ChatGPT Translate",
-"remoteChatGPTBackup":"ChatGPT Translate Direct"
+"remoteChatGPTDefault":"ChatGPT Translate Direct",
+"remoteChatGPTBackup":"ChatGPT Translate"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -55,7 +55,7 @@
 "tryAIDaily":100,
 "resetAI":1000,
 "remoteGoogleDefault":"Google Translate",
-"remoteGoogleBackup":"Gemini AI Translate",
+"remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"Gemini AI Translate",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
