@@ -18,8 +18,8 @@
 "defaultAi1":2,
 "defaultAi1a":3,
 "defaultAi2":1,
-"tryAIDaily":100,
-"resetAI":1000,
+"tryAIDaily":50,
+"resetAI":800,
 "isShowPlans":true,
 "isHideTranslation":false,
 "tryAI":false,
@@ -28,7 +28,7 @@
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"ChatGPT Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"ChatGPT Translate"
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -52,14 +52,14 @@
 "defaultAi2":1,
 "tryAI":false,
 "defaultItemPurchase":1,
-"tryAIDaily":100,
-"resetAI":1000,
+"tryAIDaily":50,
+"resetAI":800,
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"ChatGPT Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"ChatGPT Translate"
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.voice_camera_free_translate",
