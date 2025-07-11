@@ -54,6 +54,7 @@
 "defaultItemPurchase":1,
 "tryAIDaily":50,
 "resetAI":800,
+"modal":"gemini-2.0-flash-lite",
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
