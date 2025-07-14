@@ -27,7 +27,7 @@
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"ChatGPT Translate Direct",
-"remoteChatGPTDefault":"ChatGPT Translate Direct",
+"remoteChatGPTDefault":"ChatGPT Translate",
 "remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
@@ -56,10 +56,10 @@
 "resetAI":800,
 "modal":"gemini-2.0-flash-lite",
 "remoteGoogleDefault":"Google Translate",
-"remoteGoogleBackup":"Gemini AI Translate Direct",
+"remoteGoogleBackup":"ChatGPT Translate",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"ChatGPT Translate Direct",
-"remoteChatGPTDefault":"ChatGPT Translate Direct",
+"remoteChatGPTDefault":"ChatGPT Translate",
 "remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
