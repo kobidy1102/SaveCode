@@ -45,7 +45,7 @@
 "backup":0,
 "note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
 "urlTranslate":"https://apimi.aifasttranslate.com/",
-"urlTranslateAll":"api.aihubtranslator.com/",
+"urlTranslateAll":"https://api.aihubtranslator.com/",
 "default1":1,
 "default2":2,
 "defaultAi1":2,
