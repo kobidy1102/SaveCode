@@ -44,7 +44,7 @@
 "packageTarget":"com.recognize_text.translate.screen",
 "backup":0,
 "note":"The version for Iphone (IOS) is available on the AppStore, app name: EZ Screen Translator",
-"urlTranslate":"https://api.aihubtranslator.com/",
+"urlTranslate":"https://apimi.aifasttranslate.com/",
 "urlTranslateAll":"https://api.aihubtranslator.com/",
 "default1":1,
 "default2":2,
@@ -62,18 +62,5 @@
 "remoteGeminiBackup":"ChatGPT Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
 "remoteChatGPTBackup":"Gemini AI Translate Direct"
-},
-{
-"packageName":"com.voice_camera_free_translate",
-"versionCode": 6,
-"versionName":"1.6",
-"detail":"",
-"requiredUpdate":true,
-"showCancelButton":true,
-"countShowDialog":6,
-"id":"9ad77e37e5mshb5b2966358dd46dp137f2fjsnddbd334f8b1c",
-"packageTarget":"com.voice_camera_free_translate",
-"backup":0,
-"note":"The version for Iphone (ios) is available on the AppStore, application name: EZ Screen Translator"
 }
 ]
