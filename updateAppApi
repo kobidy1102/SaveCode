@@ -23,6 +23,7 @@
 "isShowPlans":true,
 "isHideTranslation":false,
 "tryAI":false,
+"isShowRatingOverlay":true,
 "modal":"gemini-2.0-flash-lite",
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
