@@ -29,11 +29,11 @@
 "isShowRatingOverlay":true,
 "modal":"gemini-2.5-flash-lite",
 "remoteGoogleDefault":"Google Translate",
-"remoteGoogleBackup":"Gemini AI Translate Direct",
+"remoteGoogleBackup":"ChatGPT Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
-"remoteGeminiBackup":"ChatGPT Translate Direct",
+"remoteGeminiBackup":"Gemini AI Translate",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"Gemini AI Translate Direct"
+"remoteChatGPTBackup":"Gemini AI Translate"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
