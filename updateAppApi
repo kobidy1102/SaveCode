@@ -33,7 +33,7 @@
 "remoteGeminiDefault":"Gemini AI Translate Direct",
 "remoteGeminiBackup":"Gemini AI Translate",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"Gemini AI Translate Direct"
+"remoteChatGPTBackup":"Gemini AI Translate"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
