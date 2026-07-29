@@ -28,6 +28,7 @@
 "tryAI":false,
 "isShowRatingOverlay":true,
 "modal":"gemini-2.5-flash-lite",
+"timeout":16,
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate",
 "remoteGeminiDefault":"Gemini AI Translate Direct",
