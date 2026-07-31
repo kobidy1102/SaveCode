@@ -30,11 +30,11 @@
 "modal":"gemini-2.5-flash-lite",
 "timeout":14,
 "remoteGoogleDefault":"Google Translate",
-"remoteGoogleBackup":"Gemini AI Translate",
-"remoteGeminiDefault":"Gemini AI Translate Direct",
-"remoteGeminiBackup":"Gemini AI Translate",
+"remoteGoogleBackup":"Gemini AI Translate Direct",
+"remoteGeminiDefault":"Gemini AI Translate",
+"remoteGeminiBackup":"Gemini AI Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
-"remoteChatGPTBackup":"Gemini AI Translate"
+"remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
 "packageName":"com.recognize_text.translate.screen",
@@ -66,8 +66,8 @@
 "modal":"gemini-2.5-flash-lite",
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
-"remoteGeminiDefault":"Gemini AI Translate Direct",
-"remoteGeminiBackup":"Gemini AI Translate",
+"remoteGeminiDefault":"Gemini AI Translate",
+"remoteGeminiBackup":"Gemini AI Translate Direct",
 "remoteChatGPTDefault":"ChatGPT Translate Direct",
 "remoteChatGPTBackup":"Gemini AI Translate Direct"
 }
