@@ -11,7 +11,7 @@
 "packageTarget":"com.tap_to_translate.snap_translate",
 "backup":0,
 "note":"The iPhone (iOS) version is now available on the App Store as 'EZ Screen Translator'",
-"urlTranslate":"https://api.aihubtranslator.com/",
+"urlTranslate":"https://api-staging.aihubtranslator.com/",
 "urlOCR":"https://api.aihubtranslator.com/",
 "urlTranslateAll":"https://api.aihubtranslator.com/",
 "default1":1,
