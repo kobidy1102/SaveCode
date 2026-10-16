@@ -69,6 +69,7 @@
 "resetDeepTranslate":600,
 "resetApiOCR":600,
 "timeout":11,
+"firebaseAiRegion":"global",
 "remoteGoogleDefault":"Google Translate",
 "remoteGoogleBackup":"Gemini AI Translate Direct",
 "remoteGeminiDefault":"Gemini AI Translate",
