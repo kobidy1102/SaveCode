@@ -1,10 +1,10 @@
 {
-"version": 1,
-"requiredUpdate":true,
+"version": 141,
+"requiredUpdate":false,
 "url":"https://api.aihubtranslator.com/api/v1",
 "urlAll":"https://api.aihubtranslator.com/api/v1",
-"urlOCR":"https://api-staging.aihubtranslator.com/api/v1",
+"urlOCR":"https://api.aihubtranslator.com/api/v1",
 "id":"sABDKL8qhZ6r-K2Swh6Yp9aF7Y8Y9ZeEfPZXGJbNA",
 "modal":"gemini-2.5-flash-lite",
-"note":"New version information: \n- Improved translation quality.\n- Increase text display size.     ",
+"note":"New version information: \n- Improved the floating shortcut\n- Added Cloud Recognize Text, a new text recognition mode\n- Improved text recognition region accuracy",
 }
