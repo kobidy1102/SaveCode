@@ -38,7 +38,7 @@
 "remoteChatGPTBackup":"Gemini AI Translate Direct"
 },
 {
-"pointsPerAd": 7,
+"pointsPerAd": 5,
 "countAds": 15,
 "packageName":"com.recognize_text.translate.screen",
 "versionCode": 185,
